@@ -1,6 +1,7 @@
 # Primer osnovnog HTTP servera
 
 Ovaj primer predstavlja implementaciju elementarnog HTTP servera u Javi.
+Primer je preuzet sa [linka](https://github.com/mbranko/isa19/tree/master/01-threads)
 
 ## Potrebne stvari
 
