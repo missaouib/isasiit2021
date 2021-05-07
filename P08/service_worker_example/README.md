@@ -10,6 +10,9 @@ Service worker lifecycle je plastično prikazan na slici:
 * [VS code](https://code.visualstudio.com/)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers)
+* [Service Workers Security FAQ](https://chromium.googlesource.com/chromium/src/+/master/docs/security/service-worker-security-faq.md)
+
+
 ## Pokretanje aplikacije
 
 * Otvoriti __service_worker_example__ u VS Code editoru
