@@ -2,7 +2,7 @@
 
 U primeru je predstavljena ideja o keširanju statičkih resursa za offline mode pomoću servise workera.
 
-Service worker lifecycle je plastično prikazan na slici:
+Service worker lifecycle je plastično prikazan na slici (slika preuzeta sa [linka](https://developers.google.com/web/fundamentals/primers/service-workers)):
 
 ![alt text](https://developers.google.com/web/fundamentals/primers/service-workers/images/sw-lifecycle.png "Service Worker Lifecycle")
 
