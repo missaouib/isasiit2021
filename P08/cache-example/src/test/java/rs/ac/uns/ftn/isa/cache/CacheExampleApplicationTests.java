@@ -1,4 +1,4 @@
-package rs.ac.uns.ftn.informatika.cache;
+package rs.ac.uns.ftn.isa.cache;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
